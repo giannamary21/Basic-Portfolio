@@ -1,0 +1,106 @@
+body,html{
+	background: white;
+}
+
+.container-headername{
+	position: absolute;
+	background:aqua;
+	font-size: 18px;
+	color: tan;
+	padding: 15px;
+	margin-top: 10px;
+	margin-left: 140px;
+}
+
+
+ul li{
+  display: inline;
+
+}
+
+ul{
+
+	color: black;
+	position: absolute;
+	margin: 45px;
+	margin-left: 875px;
+	word-spacing: 30px;
+	font-size: 18px;
+}
+
+.aboutme{
+	margin-bottom: 25px;
+	border-bottom: solid 3px gray;
+
+}
+
+
+.bio{
+	position: absolute;
+	padding: 45px;
+	margin-left: 145px;
+	margin-right: 795px;
+	width: 565px;
+	height: 465px;
+	background: white;
+
+}
+
+.paragraph1{
+	font-size: 18px;
+	text-align: left;
+	letter-spacing: 1px;
+	line-height: 29px;
+	margin-right: 2px;
+	margin-left: 15px;
+}
+
+.container2{
+	position: fixed;
+	border-top: solid 2px gray;
+	right: 0;
+	left: 0;
+	top: 112px;
+	bottom: 45px;
+	background: lightgray;
+	padding-top: 35px;
+	padding-bottom: 220px;
+
+
+}
+
+.container{
+	padding: 30px;
+	margin: 0;
+	width: 215px;
+	height: 145px;
+	margin-left: 850px;
+	font-size: 20px;
+	text-align: center;
+	background: white;
+
+}
+
+.button{
+	color: black;
+	size: 20px;
+	background: aqua;
+}
+
+h3{
+	margin-bottom: 25px;
+	margin-top: 8px;
+	border-bottom: solid 3px gray;
+}
+
+footer{
+	position:absolute;
+	border-top: solid 8px aqua;
+	padding: 40px;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+	background:gray;
+
+
